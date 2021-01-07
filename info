@@ -11,23 +11,23 @@ body {
 h1   {text-align: center;color: blue;}
 </style>
 <body>
-<img src="https://www.instagram.com/p/B2MXf16hx9u/" width="360" height="245" center;></td>
+<img src="https://www.instagram.com/p/B2MXf16hx9u/" width="360" height="245" center></td>
 <h1>Rishabh Sharma</h1>
             <p>Student at <a href="https://manavrachna.edu.in/">MRIIRS</a></p>
             <p>I am pursuing BTECH with specialization in cloud computing. Currently in 6th semester and i am looking for internship.</p>  
-    <hr size="3" noshade="">
+    
     <h3>Education</h3>
     <ul>
         <li>Bharat National Public School</li> 
         <li>MRIIRS</li>   
     </ul>
-    <hr>
+    
     <h3>Hobbies</h3>
     <ol><li>Cooking</li>
         <li>Listning Music</li>
         <li>Outdoor Activities </li>
     </ol>
-    <hr>
+    
     <h2>Studies</h2>
     <table border=1px>
         <thead>
@@ -51,7 +51,7 @@ h1   {text-align: center;color: blue;}
         </tr>
          </tbody>
     </table>
-    <hr>
+    
     <h3>Skills</h3>
     <table>
         <tr>
