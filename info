@@ -6,17 +6,23 @@
 </head>
 <style>
 body {
-	background-color: powderblue;
+	background-image:url(white-wallpapers-4.jpg);
+	background-repeat: no-repeat;
+    background-attachment: scroll;
+	background-position:center
 }
 h1   {text-align: center;color: blue;}
 </style>
 <body>
-<img src="https://www.instagram.com/p/B2MXf16hx9u/" width="360" height="245" center></td>
+<img src="123231627_127362768859686_3255404440316309836_n.jpg" width="214" height="213" hspace="550"
+align="absmiddle"></td>
 <h1>Rishabh Sharma</h1>
             <p>Student at <a href="https://manavrachna.edu.in/">MRIIRS</a></p>
             <p>I am pursuing BTECH with specialization in cloud computing. Currently in 6th semester and i am looking for internship.</p>  
+<img src="2880x1800-px-code-coding-programming-1274437.jpg"
+width="285" height="178" align="right">
     
-    <h3>Education</h3>
+<h3>Education</h3>
     <ul>
         <li>Bharat National Public School</li> 
         <li>MRIIRS</li>   
@@ -52,7 +58,7 @@ h1   {text-align: center;color: blue;}
          </tbody>
     </table>
     
-    <h3>Skills</h3>
+<h3>Skills</h3>
     <table>
         <tr>
             <th>Python</th>
